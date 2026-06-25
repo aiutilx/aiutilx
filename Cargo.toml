@@ -21,6 +21,7 @@ members = [
     "astx",
     "dnsx",
     "confx",
+    "gitx",
     "tests",
 ]
 resolver = "2"

@@ -93,3 +93,7 @@ path = "logx_test.rs"
 [[test]]
 name = "idx_test"
 path = "idx_test.rs"
+
+[[test]]
+name = "gitx_test"
+path = "gitx_test.rs"
